@@ -158,7 +158,8 @@ Esto permite construir una interfaz ordenada, interactiva y fácil de utilizar.
 
 1️⃣ Clonar el repositorio
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/piere0405/CasoEstudio1
+
 2️⃣ Instalar dependencias
 
 pip install -r requirements.txt
